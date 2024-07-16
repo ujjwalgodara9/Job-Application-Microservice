@@ -1,0 +1,3 @@
+[submodule "JobMicroservice"]
+	path = JobMicroservice
+	url = https://github.com/ujjwalgodara9/JobMicroservice.git
